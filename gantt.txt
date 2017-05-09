@@ -1,0 +1,17 @@
+1 - cahier des charges
+2 - modélisation merise 
+3 - passage du modele conceptuel au modele relationnelle
+4 - crétaion des tables sur oracle : client, commander, produit
+5 - insertiin des données dans la table Produit : environ 10 produits
+6 - Gantt (ou pas) et maquette des interface client et entreprise
+7 - developpement de l'interface client
+...
+... insertion des données dans les tabeles Commander et client via l'interface client
+
+8 - développement de l'interface entreprise
+--> présiser les detail : interface logiciel , fonctionnalité de base etc...
+... avec des tests pour chaque étapes
+...
+9 - rédiger rapport 
+10 - powerpoint et préparation de l'exposé du projet 
+11 - prépartion pour la démonstration 
